@@ -1,5 +1,8 @@
-# Today I Learned
-- 하루동안 공부한 내용을 기록으로 남긴다.
-- 커밋에 너무 집착하지 않고 기록한다.
----
+# Today I Learned Algorithm
+- **1일 1알고**
+- 주 사용 언어: Python, MySQL
+
+## 1. programmers
+- MySQL (진행중)
+  > Lv.0 
   
